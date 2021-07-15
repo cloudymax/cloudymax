@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=A91021&height=150&section=header&text=Hi,%20I'm%20Max%20^-^&fontSize=40&fontColor=fefffe&animation=fadeIn&rotate=10&fontAlignY=40&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=slice&color=A91021&height=100&section=header&text=Hi,%20I'm%20Max%20^-^&fontSize=40&fontColor=fefffe&animation=fadeIn&rotate=10&fontAlignY=40&fontAlign=70)
 
 
-```yaml
+```hcl
 --- 
 Max: 
   Experience: ">10 years"
@@ -17,7 +17,6 @@ Max:
     - "Gaming"
     - "Music Production"
     - "Software Development"
-
 ```
 
 <!---
