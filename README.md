@@ -17,6 +17,11 @@ Max:
     - "Gaming"
     - "Music Production"
     - "Software Development"
+  Connect:
+    - Twitter: "https://twitter.com/SudoSendTweet"
+    - LinkedIn: "https://www.linkedin.com/in/deserializeme/"
+    - Git: "https://github.com/cloudymax"
+    - Email: "maxis@deserialize.me"
 ```
 
 <!---
