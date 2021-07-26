@@ -3,7 +3,6 @@
 ```hcl
 ---
 Max:
-  Experience: ">10 years"
   Pronouns: They/them
   Titles:
     - "Sr. Cloud Architect"
