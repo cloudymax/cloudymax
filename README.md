@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=A91021&height=100&section=header&text=Hi,%20I'm%20Max%20^-^&fontSize=40&fontColor=fefffe&animation=fadeIn&rotate=7&fontAlignY=40&fontAlign=70)
-
+<img alt="My Zoom background tool" src="https://thumbs.gfycat.com/MemorableGoodnaturedDutchshepherddog-size_restricted.gif" width="100%"></a>
 
 ```hcl
 ---
@@ -23,8 +22,6 @@ Max:
     - Git: "https://github.com/cloudymax"
     - Email: "maxis@deserialize.me"
 ```
-
-<img alt="My Zoom background tool" src="https://thumbs.gfycat.com/MemorableGoodnaturedDutchshepherddog-size_restricted.gif" width="100%"></a>
 
 <!---
 header:
