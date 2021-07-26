@@ -2,11 +2,11 @@
 
 
 ```hcl
---- 
-Max: 
+---
+Max:
   Experience: ">10 years"
   Pronouns: They/them
-  Titles: 
+  Titles:
     - "Sr. Cloud Architect"
     - "Systems Engineer"
     - "Game Dev"
@@ -23,6 +23,8 @@ Max:
     - Git: "https://github.com/cloudymax"
     - Email: "maxis@deserialize.me"
 ```
+
+<img alt="My Zoom background tool" src="https://thumbs.gfycat.com/MemorableGoodnaturedDutchshepherddog-size_restricted.gif" width="100%"></a>
 
 <!---
 header:
