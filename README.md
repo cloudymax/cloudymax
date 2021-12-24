@@ -17,10 +17,7 @@ Max:
     - "Software Development"
   Connect:
     - website: "https://www.cloudydev.net"
-    - Twitter: "https://twitter.com/SudoSendTweet"
-    - LinkedIn: "https://www.linkedin.com/in/deserializeme/"
     - Git: "https://github.com/cloudymax"
-    - Email: "emax@cloudydev.net"
 ```
 
 <!---
