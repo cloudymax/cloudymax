@@ -1,13 +1,11 @@
-<img alt="My Zoom background tool" src="https://thumbs.gfycat.com/MemorableGoodnaturedDutchshepherddog-size_restricted.gif" width="100%"></a>
-
-```hcl
+```yaml
 ---
 Max:
   Pronouns: They/them
-  Titles:
-    - "Sr. Cloud Architect"
-    - "Systems Engineer"
-    - "Game Dev"
+  I Do:
+    - "Cloud Architecture"
+    - "Systems Engineering"
+    - "Game Development"
   Industries:
     - "Virtual Reality"
     - "Point of Sale"
