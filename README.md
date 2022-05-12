@@ -14,7 +14,7 @@ Max:
     - "Music Production"
     - "Software Development"
   Connect:
-    - website: "https://cloudydev.azureedge.net/"
+    - website: "https://www.cloudydev.net/"
     - Git: "https://github.com/cloudymax"
 ```
 
