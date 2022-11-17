@@ -18,7 +18,7 @@ Max:
   Favorites:
     - "Salt & Pepper Tofu"
     - "Public Infrastructure"
-    - "Debain Linux"
+    - "Debian Linux"
     - "LittleBigPlanet Karting"
   Connect:
     - website: "https://www.cloudydev.net/"
