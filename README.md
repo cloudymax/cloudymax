@@ -2,17 +2,24 @@
 ---
 Max:
   Pronouns: They/them
-  I Do:
+  Specialties:
     - "Cloud Architecture"
     - "Systems Engineering"
     - "Game Development"
+    - "Virtualization"
   Industries:
     - "Virtual Reality"
     - "Point of Sale"
+    - "GreenTech"
+    - "MedTech"
     - "Platform as a Service"
     - "Gaming"
-    - "Music Production"
-    - "Software Development"
+    - "Audio Engineering"
+  Favorites:
+    - "Salt & Pepper Tofu"
+    - "Public Infrastructure"
+    - "Debain Linux"
+    - "LittleBigPlanet Karting"
   Connect:
     - website: "https://www.cloudydev.net/"
     - Git: "https://github.com/cloudymax"
