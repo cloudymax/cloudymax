@@ -1,13 +1,13 @@
 ```yaml
 ---
-Max:
-  Pronouns: They/them
-  Specialties:
+max:
+  pronouns: They/them
+  specialties:
     - "Cloud Architecture"
     - "Systems Engineering"
     - "Game Development"
     - "Virtualization"
-  Industries:
+  industries:
     - "Virtual Reality"
     - "Point of Sale"
     - "GreenTech"
@@ -15,14 +15,15 @@ Max:
     - "Platform as a Service"
     - "Gaming"
     - "Audio Engineering"
-  Favorites:
+  favorites:
     - "Salt & Pepper Tofu"
     - "Public Infrastructure"
     - "Debian Linux"
     - "LittleBigPlanet Karting"
-  Connect:
-    - website: "https://www.cloudydev.net/"
-    - Git: "https://github.com/cloudymax"
+  connect:
+    website: "https://www.cloudydev.net/"
+    git: "https://github.com/cloudymax"
+    social: "https://social.smallhack.org/@cloudymax"
 ```
 
 <!---
